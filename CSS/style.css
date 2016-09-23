@@ -8,7 +8,7 @@
 /*ETIQUETAS*/
 body{
 
-background-image: url(/img/fondo_ppal.png);
+background-image: url(../img/fondo_ppal.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -72,7 +72,7 @@ section{
 footer{
 width: 1000px;
 height: 20px;
-background-image: url(/img/fondoDerAutor.png);
+background-image: url(../img/fondoDerAutor.png);
 background-repeat: no-repeat;
 background-size: cover;
 float: left;
